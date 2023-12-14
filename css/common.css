@@ -18,6 +18,10 @@ button {
 	background-color: transparent;
 }
 
+a {
+	text-decoration: none;
+}
+
 button:active {
 	opacity: 0.6;
 }

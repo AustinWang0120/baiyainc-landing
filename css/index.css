@@ -91,6 +91,7 @@
 	width: 54.8vw;
 	height: 11.83vw;
 	overflow-wrap: break-word;
+	white-space: nowrap;
 	color: rgba(255, 255, 255, 1);
 	font-size: 3.22vw;
 	font-family: TimesNewRomanPS-BoldMT;

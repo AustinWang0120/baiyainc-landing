@@ -104,11 +104,13 @@
 	background: url("../assets/6/_DSF3879 拷贝.png") 100% no-repeat;
 	background-size: 100% 100%;
 	width: 16.46vw;
+	justify-content: center;
+	align-items: center;
 }
 
 .paragraph_1 {
-	width: 10.47vw;
-	height: 2.77vw;
+	/* width: 10.47vw;
+	height: 2.77vw; */
 	overflow-wrap: break-word;
 	color: rgba(255, 255, 255, 1);
 	font-size: 1.25vw;
@@ -116,7 +118,8 @@
 	font-weight: 700;
 	text-align: center;
 	line-height: 1.83vw;
-	margin: 2.65vw 0 0 2.91vw;
+	/* margin: 2.65vw 0 0 2.91vw; */
+	display: block;
 }
 
 .box_4 {
@@ -188,6 +191,8 @@
 	background: url("../assets/6/AOB07724 拷贝.png") 100% no-repeat;
 	background-size: 100% 100%;
 	width: 16.46vw;
+	justify-content: center;
+	align-items: center;
 }
 
 .paragraph_2 {
@@ -200,7 +205,8 @@
 	font-weight: 700;
 	text-align: center;
 	line-height: 2.04vw;
-	margin: 2.76vw 0 0 3.48vw;
+	/* margin: 2.76vw 0 0 3.48vw; */
+	display: block;
 }
 
 .box_6 {
@@ -272,11 +278,13 @@
 	background: url("../assets/6/DSC01916 拷贝.png") 100% no-repeat;
 	background-size: 100% 100%;
 	width: 16.46vw;
+	justify-content: center;
+	align-items: center;
 }
 
 .paragraph_3 {
-	width: 10.53vw;
-	height: 2.92vw;
+	/* width: 10.53vw;
+	height: 2.92vw; */
 	overflow-wrap: break-word;
 	color: rgba(255, 255, 255, 1);
 	font-size: 1.25vw;
@@ -284,7 +292,8 @@
 	font-weight: 700;
 	text-align: center;
 	line-height: 2.04vw;
-	margin: 2.13vw 0 0 2.91vw;
+	/* margin: 2.13vw 0 0 2.91vw; */
+	display: block;
 }
 
 .block_5 {
@@ -357,19 +366,22 @@
 	background: url("../assets/6/20348574 拷贝.png") 100% no-repeat;
 	background-size: 100% 100%;
 	width: 16.46vw;
+	justify-content: center;
+	align-items: center;
 }
 
 .paragraph_4 {
-	width: 12.3vw;
-	height: 4.64vw;
+	/* width: 12.3vw;
+	height: 4.64vw; */
 	overflow-wrap: break-word;
 	color: rgba(255, 255, 255, 1);
-	font-size: 1vw;
+	font-size: 1.25vw;
 	font-family: TimesNewRomanPS-BoldMT;
 	font-weight: 700;
 	text-align: center;
 	line-height: 1.83vw;
-	margin: 1.77vw 0 0 2.08vw;
+	/* margin: 1.77vw 0 0 2.08vw; */
+	display: block;
 }
 
 .group_1 {

@@ -229,6 +229,10 @@
 	line-height: 2.5vw;
 }
 
+.group_added {
+	margin: 5.55vw 0 0 18.9vw;
+}
+
 .paragraph_3 {
 	width: 38.29vw;
 	height: 18.6vw;
@@ -257,7 +261,7 @@
 	font-weight: normal;
 	text-align: justifyLeft;
 	line-height: 1.62vw;
-	margin: 2.55vw 0 0 18.9vw;
+	/* margin: 2.55vw 0 0 18.9vw; */
 }
 
 .section_4 {

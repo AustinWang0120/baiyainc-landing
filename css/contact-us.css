@@ -74,7 +74,7 @@
 	text-align: left;
 	white-space: nowrap;
 	line-height: 1.72vw;
-	margin-top: 0.42vw;
+	/* margin-top: 0.42vw; */
 }
 
 .paragraph_1 {
@@ -118,7 +118,7 @@
 	text-align: left;
 	white-space: nowrap;
 	line-height: 2.3vw;
-	margin: 3.33vw 13.59vw 0 1.61vw;
+	margin: 2.8vw 13.59vw 0 1.61vw;
 }
 
 .section_3 {
@@ -145,7 +145,7 @@
 	text-align: left;
 	white-space: nowrap;
 	line-height: 2.3vw;
-	margin: 2.91vw 14.11vw 0 1.71vw;
+	margin: 2.4vw 14.11vw 0 1.71vw;
 }
 
 .image_1 {
@@ -172,7 +172,7 @@
 	text-align: left;
 	white-space: nowrap;
 	line-height: 2.3vw;
-	margin: 0.93vw 0 0 0.88vw;
+	margin: 0.33vw 0 0 0.88vw;
 }
 
 .box_5 {
@@ -287,7 +287,7 @@
 	text-align: left;
 	white-space: nowrap;
 	line-height: 1.52vw;
-	margin: 1.04vw 0 0 3.95vw;
+	margin: 0.64vw 0 0 3.95vw;
 }
 
 .box_6 {
